@@ -1,0 +1,14 @@
+body{
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: rgba(137, 43, 226, 0.712);
+    background-color: #131314;
+}
+
+.center{
+    margin-top: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
